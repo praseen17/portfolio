@@ -130,7 +130,7 @@ export const Hero = () => {
           borderColor="brand.500"
         >
           <Image
-            src="https://drive.google.com/file/d/1FFwweJSTCDxfzr9_hy4FMkfoBQ2HyoEk/view?usp=drive_link"
+            src="https://res.cloudinary.com/dimpljqz4/image/upload/v1756065116/WhatsApp_Image_2025-08-25_at_00.15.26_2b21b408_van1hy.jpg"
             alt="Praseen Chilla"
             objectFit="cover"
             w="100%"
