@@ -130,7 +130,7 @@ export const Hero = () => {
           borderColor="brand.500"
         >
           <Image
-            src="/assets/image.jpg"
+            src="https://drive.google.com/file/d/1FFwweJSTCDxfzr9_hy4FMkfoBQ2HyoEk/view?usp=drive_link"
             alt="Praseen Chilla"
             objectFit="cover"
             w="100%"
